@@ -1,5 +1,5 @@
 # Gesture-based-multimedia-control-and-Virtual-mouse-navigation
-•Features
+#Features
 •	Mouse Navigation: Move the cursor, perform left and right clicks, scroll, and take screenshots using hand gestures.
 •	Multimedia Control: Adjust system volume and screen brightness with intuitive gestures.
 •	Gesture-Based Mode Switching: Easily switch between mouse control and multimedia control using a special hand gesture.
